@@ -2542,10 +2542,10 @@ input, select, textarea {
 	}
 
 		#banner .inner {
-			-moz-animation: reveal-banner 1s 5s ease-in-out;
-			-webkit-animation: reveal-banner 1s 5s ease-in-out;
-			-ms-animation: reveal-banner 1s 5s ease-in-out;
-			animation: reveal-banner 1s 5s ease-in-out;
+			-moz-animation: reveal-banner 1s 1s ease-in-out;
+			-webkit-animation: reveal-banner 1s 1s ease-in-out;
+			-ms-animation: reveal-banner 1s 1s ease-in-out;
+			animation: reveal-banner 1s 1s ease-in-out;
 			-moz-animation-fill-mode: forwards;
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
