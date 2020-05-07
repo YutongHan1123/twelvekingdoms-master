@@ -1,13 +1,13 @@
 {"nodes":[
-  {"category":"1","character":"Shishou","id":0,"influence":241,"zone":0,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
-  {"category":"1","character":"Shuka","id":1,"influence":221,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
-  {"category":"1","character":"Eishuku","id":2,"influence":137,"zone":2,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
+  {"category":"3","character":"Shishou","id":0,"influence":241,"zone":0,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
+  {"category":"3","character":"Shuka","id":1,"influence":221,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
+  {"category":"3","character":"Eishuku","id":2,"influence":137,"zone":2,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
   {"category":"3","character":"king","id":3,"influence":87,"zone":4,"race":"Human","intro":""},
-  {"category":"1","character":"Seiki","id":4,"influence":118,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
-  {"category":"1","character":"Junkou","id":5,"influence":92,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
+  {"category":"3","character":"Seiki","id":4,"influence":118,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
+  {"category":"3","character":"Junkou","id":5,"influence":92,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
   {"category":"3","character":"Kasho","id":6,"influence":57,"zone":4,"race":"Human","intro":""},
-  {"category":"1","character":"Sairin","id":7,"influence":58,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
-  {"category":"1","character":"Shinshi","id":8,"influence":34,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"}
+  {"category":"3","character":"Sairin","id":7,"influence":58,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"},
+  {"category":"3","character":"Shinshi","id":8,"influence":34,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book6/youko.png"}
 ],
 "links":[
   {"source":0,"target":1,"weight":46},

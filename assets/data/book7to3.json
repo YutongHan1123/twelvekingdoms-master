@@ -1,8 +1,8 @@
 {"nodes":[
-  {"category":"1","character":"Hyouchuu","id":0,"influence":283,"zone":0,"race":"Human","intro":"","img":"assets/data/book/book7/youko.png"},
+  {"category":"3","character":"Hyouchuu","id":0,"influence":283,"zone":0,"race":"Human","intro":"","img":"assets/data/book/book7/youko.png"},
   {"category":"3","character":"tree","id":1,"influence":179,"zone":4,"intro":""},
-  {"category":"1","character":"Houkou","id":2,"influence":134,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book7/youko.png"},
-  {"category":"1","character":"Kyoukei","id":3,"influence":73,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book7/youko.png"},
+  {"category":"3","character":"Houkou","id":2,"influence":134,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book7/youko.png"},
+  {"category":"3","character":"Kyoukei","id":3,"influence":73,"zone":1,"race":"Human","intro":"","img":"assets/data/book/book7/youko.png"},
   {"category":"3","character":"imperial","id":4,"influence":52,"zone":4,"intro":""},
   {"category":"3","character":"yaboku","id":5,"influence":46,"zone":4,"intro":""},
   {"category":"3","character":"emperor","id":6,"influence":46,"zone":4,"intro":""}
