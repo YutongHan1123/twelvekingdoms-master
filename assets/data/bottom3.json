@@ -1,0 +1,21 @@
+{"nodes":[
+  {"category":"1","character":"Ki","id":0,"influence":949,"zone":0,"race":"Human","intro":"","img":"assets/data/book/book7/youko.png"},
+  {"category":"3","character":"Tai","id":1,"influence":949,"zone":1,"intro":""},
+  {"category":"3","character":"pit","id":2,"influence":596,"zone":4,"intro":""},
+  {"category":"3","character":"fill","id":3,"influence":299,"zone":4,"intro":""},
+  {"category":"3","character":"lord","id":4,"influence":258,"zone":4,"intro":""},
+  {"category":"3","character":"Ono","id":5,"influence":267,"zone":4,"intro":""}
+],
+"links":[
+  {"source":0,"target":1,"weight":534},
+  {"source":0,"target":2,"weight":167},
+  {"source":2,"target":1,"weight":107},
+  {"source":2,"target":3,"weight":234},
+  {"source":0,"target":3,"weight":82},
+  {"source":2,"target":1,"weight":107},
+  {"source":3,"target":4,"weight":81},
+  {"source":4,"target":5,"weight":144},
+  {"source":2,"target":5,"weight":98},
+  {"source":2,"target":4,"weight":89},
+  {"source":3,"target":5,"weight":79}
+]}

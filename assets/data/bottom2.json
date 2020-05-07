@@ -1,0 +1,14 @@
+{"nodes":[
+  {"category":"1","character":"anime","id":0,"influence":1816,"zone":4,"race":"Human","intro":"","img":"assets/data/book/book7/youko.png"},
+  {"category":"3","character":"female","id":1,"influence":1288,"zone":4,"intro":""},
+  {"category":"3","character":"character","id":2,"influence":1473,"zone":4,"intro":""},
+  {"category":"3","character":"growth","id":3,"influence":340,"zone":4,"intro":""}
+],
+"links":[
+  {"source":0,"target":1,"weight":178},
+  {"source":0,"target":2,"weight":255},
+  {"source":2,"target":1,"weight":570},
+  {"source":3,"target":1,"weight":105},
+  {"source":2,"target":3,"weight":134},
+  {"source":0,"target":3,"weight":110}
+]}
