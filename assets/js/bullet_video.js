@@ -39,31 +39,39 @@ function myFunction() {
     document.getElementById("description_video").innerHTML = "It’s the short part that Enki grow up in the Mout Hou. Because he is a kirin, he also shows the ability of shapeshifting. Fans said he is really cute. Some fans thought he is similar to Monkey King.";
   } else if (i == 11) {
     vid.src = "video/12.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "Yuka Sugimoto (杉本優香), Youko’s classmates in Japan, got transported to Kou along with Youko. She loves reading fantasy books and believes herself to be “chosen one”. In this case, she was jealous and discontent when Keiki treated Youko differently. As a result, the king of Kou takes advantage of Yuka to fight against Youko.<br>\
+    <br>\
+    This part is the last attempt that the king of Kou tried to kill Youko. Yuka finally realizes that she is not the ”chosen one”. The Twelve Kingdom is not her world. Yuka and Youko reconciled.<br>\
+    <br>\
+    Audiences commented that Yuka came to a profound realization. They said she finally cure of the Chūnibyō.";
   } else if (i == 12) {
     vid.src = "video/13.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "Youko marches the army to save Keiki and quell the disturbances with the help of the king of En. Yuka said she wants to go with Youko. Right now, she has become considerably humble. Audiences said they look like a couple. Some audiences said Youko is so handsome, like Mulan.";
   } else if (i == 13) {
     vid.src = "video/14.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "This episode is a review episode about the first book. The highest part is the first time that Youko met Keiki. The audience complained that Keiki was so strict and was unable to clarify the situation, which caused a lot of misunderstanding.";
   } else if (i == 14) {
     vid.src = "video/15.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "Yuka is sent back to Japan. She met another “person” who also went to the world of the Twelve Kingdoms and back to Japan. Actually, the “person” is Taiki. Because Taiki lost his horn, he also lost the memory about the world of the Twelve Kingdoms. And his Nyokai (female youma, like kirin’s mother) gradually lost control after he went back to Japan. After they met, Nyokai suspected Yuka is the enemy, want to hurt her. At that time, Yuka said she is the empress of Kei’s friend, she won’t hurt Taiki. Then Nyokai disappear.<br>\
+    <br>\
+    The audience smiled that Yuka has the background when she said she is Youko’s friend. Others worried about Taiki’s safety.";
   } else if (i == 15) {
     vid.src = "video/16.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "Taiki went back to the world of the Twelve Kingdoms after 10 years since birth. Nyosen (female sages, taking care of kirins) feel he is different from other kirins. Because he grew up in Japan. The audience commented Taiki is so lovely, adorable. Some also sighed about his uncertain life and fate.";
   } else if (i == 16) {
     vid.src = "video/17.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "Taiki doesn’t know how to shift from human to animal, so he asked Keiki for help. However, Keiki is a very bad teacher. He is too cold. In this case, Taiki was very sad, even suspected if he is a kirin. The audiences complained again that Keiki is too awkward and cold to express himself, and too easy to cause misunderstanding. Some also worried about Taiki.";
   } else if (i == 17) {
     vid.src = "video/18.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "It’s the first time that Taiki and Risai met each other. Risai is a royal female general. And she is also Taiki’s close friend. Many audiences commented that they love her and feel pity because Risai lost her arm during the riot in the book Hisho’s Birds.";
   } else if (i == 18) {
     vid.src = "video/19.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "Because Taiki grew up in Japan, he had no idea about selecting a king for the country as a kirin. He thought he wrongly selected a king due to loneliness. The audiences said the king and the kirin of Tai can’t frankly communicate with each other, which causing uncertain actions after they went back Tai. They also sighed about his uncertain life and fate.";
   } else if (i == 19) {
     vid.src = "video/20.mp4";
-    document.getElementById("description_video").innerHTML = "test3";
+    document.getElementById("description_video").innerHTML = "Close people know what Taiki worried about. In order to help Taiki understand he didn’t select a wrong, they inserted a drama into this. The audiences laughed that the king of En and Enki are really like bad guys. They said, “save my dear Taiki from those hateful guys!”<br>\
+    <br>\
+    During the play, the king of En was hit by Enki because his acting was overdone. The audiences also laughed at the king of En, saying:” Those who have done evil things will come to no good end.”";
   } else if (i == 20) {
     vid.src = "video/21.mp4";
     document.getElementById("description_video").innerHTML = "test3";
