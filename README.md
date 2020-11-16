@@ -7,6 +7,7 @@ We are familiar with the western fantasy world, like *Harry Potter*, *Game of Th
 *The Twelve Kingdoms* is my favorite anime. They originally are a series of fantasy novels wrote by Fuyumi Ono. Because it’s famous, the work was made into an anime in 2002. It’s not the best-seller compared with Naruto or One Piece. But it has loyal audiences. In Bilibili (like Chinese Youtube), it has over 4,437,000 views. Over 106,000 screen bullets will stay with you when you watch the anime. In addition, the novels are available for online reading and download. It's convenient for me to reuse. I’d like to invite you to enjoy the story of the Twelve Kingdoms through data visualization.
 
 #### Project Pitch
+[The Beauty of the Twelve Kingdoms](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/The%20Beauty%20of%20the%20Twelve%20Kingdoms.pdf)
 
 #### Online Journal
 [2020.02.04 Inspired by Mr. Xie, and Revised My Website](http://yutong-han.com/blog/weekly/02.html)
@@ -20,13 +21,17 @@ We are familiar with the western fantasy world, like *Harry Potter*, *Game of Th
 [2020.02.11 wait for update](http://yutong-han.com/blog/weekly/06.html)
 
 #### Midterm Progress Presentation 
+[Capstone Midterm_ The Twelve Kingdoms](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Capstone%20Midterm_%20The%20Twelve%20Kingdoms.pdf)
 
 #### Microsite
+[Project Mricosite](http://yutong-han.com/port/port10.html)
 
 #### Postcard
-
-#### Final Presentation 
+[Project Postcard](http://yutong-han.com/port/port10.html)
 
 #### Final Prototype 
+
+#### Final Presentation 
+[An Eastern Fantasy World](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/An%20Eastern%20Fantasy%20World.pdf)
 
 #### Final Document
