@@ -1,4 +1,4 @@
-# twelvekingdoms
+# An Eastern Fantasy World - Data Visualization of My Favorite Anime
 ## CIM 691 Capstone 
 
 #### Yutong Han
