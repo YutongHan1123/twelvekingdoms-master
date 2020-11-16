@@ -10,9 +10,13 @@ We are familiar with the western fantasy world, like *Harry Potter*, *Game of Th
 
 #### Online Journal
 [2020.02.04 Inspired by Mr. Xie, and Revised My Website](http://yutong-han.com/blog/weekly/02.html)
+
 [2020.02.11 When Huge Ambition and Poor Ability Meet](http://yutong-han.com/blog/weekly/03.html)
+
 [2020.02.20 The Endlessly Painful Road of Python and R](http://yutong-han.com/blog/weekly/04.html)
+
 [2020.02.28 An Old Challenge I Overcame, A New Challenge Appeared](http://yutong-han.com/blog/weekly/05.html)
+
 [2020.02.11 wait for update](http://yutong-han.com/blog/weekly/06.html)
 
 #### Midterm Progress Presentation 
