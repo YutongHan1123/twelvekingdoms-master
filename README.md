@@ -18,7 +18,21 @@ We are familiar with the western fantasy world, like *Harry Potter*, *Game of Th
 
 [2020.02.28 An Old Challenge I Overcame, A New Challenge Appeared](http://yutong-han.com/blog/weekly/05.html)
 
-[2020.03.06 wait for update](http://yutong-han.com/blog/weekly/06.html)
+[2020.03.07 Back to the beginning, why I want to do data visualization for The Twelve Kingdoms](http://yutong-han.com/blog/weekly/06.html)
+
+[2020.03.15 Still Working on Data, Got little Progress](http://yutong-han.com/blog/weekly/07.html)
+
+[2020.03.31 About Design, I'm thinking about...](http://yutong-han.com/blog/weekly/08.html)
+
+[2020.03.31 Even if some problems about data, I begin to build the website](http://yutong-han.com/blog/weekly/09.html)
+
+[2020.04.08 The troubles I met during building the site](http://yutong-han.com/blog/weekly/10.html)
+
+[2020.04.15 Continue Improving the site](http://yutong-han.com/blog/weekly/11.html)
+
+[2020.04.27 Final thoughts about my capstone](http://yutong-han.com/blog/weekly/12.html)
+
+[2020.05.09 The Design Process of "An Eastern Fantasy World"](http://yutong-han.com/blog/weekly/13.html)
 
 ### Midterm Progress Presentation 
 [Capstone Midterm_ The Twelve Kingdoms](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Capstone%20Midterm_%20The%20Twelve%20Kingdoms.pdf)
