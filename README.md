@@ -18,7 +18,7 @@ We are familiar with the western fantasy world, like *Harry Potter*, *Game of Th
 
 [2020.02.28 An Old Challenge I Overcame, A New Challenge Appeared](http://yutong-han.com/blog/weekly/05.html)
 
-[2020.02.11 wait for update](http://yutong-han.com/blog/weekly/06.html)
+[2020.03.06 wait for update](http://yutong-han.com/blog/weekly/06.html)
 
 ### Midterm Progress Presentation 
 [Capstone Midterm_ The Twelve Kingdoms](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Capstone%20Midterm_%20The%20Twelve%20Kingdoms.pdf)
