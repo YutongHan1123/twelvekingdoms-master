@@ -45,6 +45,7 @@ We are familiar with the western fantasy world, like *Harry Potter*, *Game of Th
 
 ### Final Prototype 
 [Sketch Version](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Yutong%20Han's%20Capstone%20Prototype.sketch)
+
 [PDF Version](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Yutong%20Han's%20Capstone%20Prototype.pdf)
 
 ### Final Presentation 
