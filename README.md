@@ -44,7 +44,7 @@ We are familiar with the western fantasy world, like *Harry Potter*, *Game of Th
 [Project Postcard](http://yutong-han.com/port/port10.html) 
 
 ### Final Presentation 
-[An Eastern Fantasy World](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/An%20Eastern%20Fantasy%20World.pdf)
+[An Eastern Fantasy World](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/)
 
 ### Final Document
-[Yutong Han's Final Document: Data Visualization of the Twelve Kingdoms](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Yutong%20Han-Final%20Document-Data-Visualization-of-the-Twelve-kingdoms.pdf)
+[Yutong Han's Final Document: Data Visualization of the Twelve Kingdoms](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/)
