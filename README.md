@@ -43,6 +43,10 @@ We are familiar with the western fantasy world, like *Harry Potter*, *Game of Th
 ### Postcard
 [Project Postcard](http://yutong-han.com/port/port10.html) 
 
+### Final Prototype 
+[Sketch Version](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Yutong%20Han's%20Capstone%20Prototype.sketch)
+[PDF Version](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Yutong%20Han's%20Capstone%20Prototype.pdf)
+
 ### Final Presentation 
 [An Eastern Fantasy World](https://github.com/YutongHan1123/twelvekingdoms-master/blob/master/pres/Yutong%20Han-Capstone-Final%20Pre-An%20Eastern%20Fantasy%20World.pdf)
 
